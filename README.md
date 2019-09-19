@@ -1,7 +1,7 @@
-# AI PORTLAND GA306 ONLINE SYLLABUS
-### Welcome To Scripting For 3D Tools!
+# AI PORTLAND GA306 ONLINE SYLLABUS #
+### Welcome To Scripting For 3D Tools! ###
 
-## Intro:
+## Intro: ##
 #### This course introduces students to production scripting programming. Topics covered will be script development, system management and data manipulation inside and outside a major 3-D software package. The emphasis will be to introduce students to the basics of a programming that allows them to build fast, portable and efficient code used in a production environment.
 
 ### Course Outcomes Upon completion of the course students should be able to:

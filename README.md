@@ -28,6 +28,6 @@
     Rigging in Maya provides a deeper understanding or maya's inner workings like the Depenecy Graph.
 
 ## Homework Assignments:
-* Week 1
-  * [Chapter 1 Questions](https://github.com/AlexOfTheWired/Scripting-for-3D-Tools/blob/master/Week_1_Homework.MD)
-  * [Chapter 1 Vocab]
+### * Week 1 Assignments:
+  * [Chapter 1 Questions](https://github.com/AlexOfTheWired/Scripting-for-3D-Tools/blob/master/Homeowrk%20List/Week_1_Homework.MD)
+  * [Chapter 1 Vocab](https://github.com/AlexOfTheWired/Scripting-for-3D-Tools/blob/master/Vocab%20List/Chapter_1_Vocab.md)

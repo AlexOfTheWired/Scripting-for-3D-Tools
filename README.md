@@ -32,5 +32,5 @@
   * [Chapter 1 Questions](https://github.com/AlexOfTheWired/Scripting-for-3D-Tools/blob/master/Homeowrk%20List/Week_1_Homework.md)
   * [Chapter 1 Vocab](https://github.com/AlexOfTheWired/Scripting-for-3D-Tools/blob/master/Vocab%20List/Chapter_1_Vocab.md)
 * ### Week 2 Assignments:
-  * [Chapter 2 Questions](https://github.com/AlexOfTheWired/Scripting-for-3D-Tools/blob/master/Homeowrk%20List/Week_2_Homework.md)
+  * [Chapter 2 Questions](https://github.com/AlexOfTheWired/Scripting-for-3D-Tools/blob/master/Homeowrk%20List/week_2_homework.md)
   * [Chapter 2 Vocab](https://github.com/AlexOfTheWired/Scripting-for-3D-Tools/blob/master/Vocab%20List/Chapter_2_Vocab.md)
